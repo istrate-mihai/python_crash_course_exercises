@@ -1,1 +1,2 @@
-# python_crash_course_exercises
+Exercises from the book
+Python Crash Course by Eric Matthes
